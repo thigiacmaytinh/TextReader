@@ -1,3 +1,6 @@
 [submodule "lib/opencv320"]
 	path = lib/opencv320
 	url = https://github.com/thigiacmaytinh/opencv320.git
+[submodule "lib/tesseract"]
+	path = lib/tesseract
+	url = https://github.com/thigiacmaytinh/tesseract.git
