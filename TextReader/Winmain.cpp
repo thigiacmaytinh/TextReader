@@ -10,7 +10,6 @@
 #include "TGMTfile.h"
 #include "TGMTdebugger.h"
 #include "TGMTutil.h"
-#include "TGMTcamera.h"
 #include "TGMTConfig.h"
 #include "TextReader.h"
 #include "TGMTdraw.h"
