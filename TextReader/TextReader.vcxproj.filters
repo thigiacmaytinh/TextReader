@@ -20,25 +20,7 @@
     <ClCompile Include="..\lib\TGMTcpp\src\TGMTConfig.cpp">
       <Filter>TGMT</Filter>
     </ClCompile>
-    <ClCompile Include="..\lib\TGMTcpp\src\TGMTdraw.cpp">
-      <Filter>TGMT</Filter>
-    </ClCompile>
-    <ClCompile Include="..\lib\TGMTcpp\src\TGMThistogram.cpp">
-      <Filter>TGMT</Filter>
-    </ClCompile>
-    <ClCompile Include="..\lib\TGMTcpp\src\TGMTshape.cpp">
-      <Filter>TGMT</Filter>
-    </ClCompile>
     <ClCompile Include="..\lib\TGMTcpp\src\TGMTutil.cpp">
-      <Filter>TGMT</Filter>
-    </ClCompile>
-    <ClCompile Include="..\lib\TGMTcpp\src\TGMTcontour.cpp">
-      <Filter>TGMT</Filter>
-    </ClCompile>
-    <ClCompile Include="..\lib\TGMTcpp\src\TGMTblob.cpp">
-      <Filter>TGMT</Filter>
-    </ClCompile>
-    <ClCompile Include="..\lib\TGMTcpp\src\TGMTmorphology.cpp">
       <Filter>TGMT</Filter>
     </ClCompile>
     <ClCompile Include="TextReader.cpp" />
@@ -66,25 +48,7 @@
     <ClInclude Include="..\lib\TGMTcpp\src\TGMTConfig.h">
       <Filter>TGMT</Filter>
     </ClInclude>
-    <ClInclude Include="..\lib\TGMTcpp\src\TGMTdraw.h">
-      <Filter>TGMT</Filter>
-    </ClInclude>
-    <ClInclude Include="..\lib\TGMTcpp\src\TGMThistogram.h">
-      <Filter>TGMT</Filter>
-    </ClInclude>
-    <ClInclude Include="..\lib\TGMTcpp\src\TGMTshape.h">
-      <Filter>TGMT</Filter>
-    </ClInclude>
     <ClInclude Include="..\lib\TGMTcpp\src\TGMTutil.h">
-      <Filter>TGMT</Filter>
-    </ClInclude>
-    <ClInclude Include="..\lib\TGMTcpp\src\TGMTcontour.h">
-      <Filter>TGMT</Filter>
-    </ClInclude>
-    <ClInclude Include="..\lib\TGMTcpp\src\TGMTblob.h">
-      <Filter>TGMT</Filter>
-    </ClInclude>
-    <ClInclude Include="..\lib\TGMTcpp\src\TGMTmorphology.h">
       <Filter>TGMT</Filter>
     </ClInclude>
     <ClInclude Include="TextReader.h" />

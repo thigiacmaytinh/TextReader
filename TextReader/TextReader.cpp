@@ -3,10 +3,7 @@
 #include "TGMTConfig.h"
 #include "TGMTdebugger.h"
 #include "TGMTutil.h"
-#include "TGMTcontour.h"
-#include "TGMTdraw.h"
 #include "TGMTimage.h"
-#include "TGMTmorphology.h"
 #include "TGMTfile.h"
 #include "TGMTtesseract.h"
 
