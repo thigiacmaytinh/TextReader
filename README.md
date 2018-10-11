@@ -1,0 +1,2 @@
+# TextReader
+Using Tesseract lib
