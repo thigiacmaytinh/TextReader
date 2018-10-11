@@ -27,7 +27,7 @@ void TGMTtesseract::LoadConfig()
 {
 	std::string data = "";
 	m_lang = GetTGMTConfig()->ReadValueString("TGMTtesseract", "lang", m_lang);
-	ASSERT(!m_tesseract.Init((TGMTfile::GetCurrentDir() + "\\data").c_str(), m_lang.c_str()), "OCRTesseract: Could not initialize tesseract.");
+	ASSERT(!m_tesseract.Init((TGMTfile::GetCurrentDir() + "\\..\\lib\\tesseract\\tessdata").c_str(), m_lang.c_str()), "OCRTesseract: Could not initialize tesseract.");
 }
 
 ////////////////////////////////////////////////////////////////////////////////////////////////////
